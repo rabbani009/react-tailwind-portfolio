@@ -18,7 +18,7 @@ const Skill = () => {
                     <li className="item space-x-2">
                     <p className='text-2xl font-normal inline border-b-2 border-pink-600'> Front-End :</p>
                     <span>
-                        ReactJS,Redux, HTML,NPM, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents .
+                        ReactJS, Redux, HTML, NPM, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents .
                     </span>
                     </li>
                     <li className="item space-x-2">
@@ -29,7 +29,7 @@ const Skill = () => {
                     </li>
                     <li className="item space-x-2">
                     <p className='text-2xl font-normal inline border-b-2 border-pink-600'>Languages :</p>
-                    <span> Php,JavaScript,C, C++ .</span>
+                    <span> Php, JavaScript, C, C++ .</span>
                     </li>
                 </ol>
     </div>
