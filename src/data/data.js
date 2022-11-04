@@ -4,7 +4,7 @@ import RealEst from '../assets/projects/realestate.jpg'
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"Management information system",
         image:WorkIm,
         github:"",
         live:"",
