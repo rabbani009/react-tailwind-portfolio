@@ -15,19 +15,19 @@ const Skill = () => {
         </div>
        
                 <ol className="list">
-                    <li className="item space-x-2">
+                    <li className="item space-x-2 py-6">
                     <p className='text-2xl font-normal inline border-b-2 border-pink-600'> Front-End :</p>
                     <span>
                         ReactJS, Redux, HTML, NPM, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents .
                     </span>
                     </li>
-                    <li className="item space-x-2">
+                    <li className="item space-x-2 py-6">
                     <p className='text-2xl font-normal inline border-b-2 border-pink-600'>Back-End :</p>
                     <span className='sm:text-right'>
                         Laravel, MySQL, MongoDB .
                     </span>
                     </li>
-                    <li className="item space-x-2">
+                    <li className="item space-x-2 py-6">
                     <p className='text-2xl font-normal inline border-b-2 border-pink-600'>Languages :</p>
                     <span> Php, JavaScript, C, C++ .</span>
                     </li>
